@@ -1,0 +1,192 @@
+[
+    {
+      "id": 1,
+      "name": "Green Haven Cafe",
+      "address": "123 Elm Street",
+      "openingTime": "8:00 AM - 5:00 PM",
+      "phone": "+1 (123) 456-7890",
+      "website": "www.google.com",
+      "imgUrl": "https://images.unsplash.com/photo-1600093463592-8e36ae95ef56?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rate": 4.5,
+      "reviews": [
+        {
+          "comment": "Excellent eco-friendly cafe!",
+          "username": "EcoLover123",
+          "date": "2023-10-25"
+        },
+        {
+          "comment": "Great place with sustainable practices.",
+          "username": "GreenGuru",
+          "date": "2023-10-24"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "EcoMart",
+      "address": "456 Oak Avenue",
+      "openingTime": "9:00 AM - 6:00 PM",
+      "phone": "+1 (987) 654-3210",
+      "website": "www.google.com",
+      "imgUrl": "https://images.unsplash.com/photo-1654949005782-fe65af1bfd5f?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rate": 3.4,
+      "reviews": [
+        {
+          "comment": "Love shopping here for eco-friendly products!",
+          "username": "SustainableShopper",
+          "date": "2023-10-23"
+        },
+        {
+          "comment": "Great selection of green products.",
+          "username": "EcoEnthusiast",
+          "date": "2023-10-22"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Green Tech Solutions",
+      "address": "789 Maple Lane",
+      "openingTime": "10:00 AM - 7:00 PM",
+      "phone": "+1 (555) 123-4567",
+      "website": "www.google.com",
+      "imgUrl": "https://images.unsplash.com/photo-1554769945-af468c934022?auto=format&fit=crop&q=80&w=1932&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rate": 3.6,
+      "reviews": []
+    },
+    {
+        "id": 4,
+        "name": "GreenLeaf Grocery",
+        "address": "101 Willow Street",
+        "openingTime": "8:00 AM - 5:00 PM",
+        "phone": "+1 (111) 222-3333",
+        "website": "www.google.com",
+        "imgUrl": "https://images.unsplash.com/photo-1506617564039-2f3b650b7010?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "rate": 2.6,
+        "reviews": []
+    },
+      {
+        "id": 5,
+        "name": "EcoWheels Bikes",
+        "address": "202 Pine Avenue",
+        "openingTime": "9:00 AM - 6:00 PM",
+        "phone": "+1 (444) 555-6666",
+        "website": "www.google.com",
+        "imgUrl": "https://images.unsplash.com/photo-1660449418924-cab682684f9d?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "rate": 5,
+        "reviews": [
+          {
+            "comment": "Great bike shop for eco-friendly riders!",
+            "username": "GreenCyclist",
+            "date": "2023-10-21"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "SustainaPet Store",
+        "address": "303 Birch Road",
+        "openingTime": "10:00 AM - 7:00 PM",
+        "phone": "+1 (777) 888-9999",
+        "website": "www.google.com",
+        "imgUrl": "https://images.unsplash.com/photo-1514373941175-0a141072bbc8?auto=format&fit=crop&q=80&w=2071&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "rate": 2.6,
+        "reviews": []
+      },
+      {
+        "id": 7,
+        "name": "GreenGlow Spa",
+        "address": "404 Cedar Drive",
+        "openingTime": "8:00 AM - 5:00 PM",
+        "phone": "+1 (111) 222-3333",
+        "website": "www.google.com",
+        "imgUrl": "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "rate": 3,
+        "reviews": []
+      },
+      {
+        "id": 8,
+        "name": "EcoBites Restaurant",
+        "address": "505 Redwood Lane",
+        "openingTime": "9:00 AM - 6:00 PM",
+        "phone": "+1 (444) 555-6666",
+        "website": "www.google.com",
+        "imgUrl": "https://images.unsplash.com/photo-1555990206-5264326d3c1c?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "rate": 3.6,
+        "reviews": [
+          {
+            "comment": "Delicious eco-friendly dishes!",
+            "username": "FoodieForSustainability",
+            "date": "2023-10-20"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "GreenGym Fitness",
+        "address": "456 Maple Lane",
+        "openingTime": "6:00 AM - 9:00 PM",
+        "phone": "+1 (987) 654-3210",
+        "website": "www.greengym.com",
+        "imgUrl": "https://images.unsplash.com/photo-1534258936925-c58bed479fcb?auto=format&fit=crop&q=80&w=1931&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "rate": 4.4,
+        "reviews": [
+          {
+            "comment": "Excellent eco-friendly fitness center!",
+            "username": "FitnessEcoPro",
+            "date": "2023-10-16"
+          },
+          {
+            "comment": "Great place for sustainable workouts.",
+            "username": "GreenGymLover",
+            "date": "2023-10-15"
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "name": "EcoGarden Nursery",
+        "address": "707 Oak Avenue",
+        "openingTime": "8:00 AM - 5:00 PM",
+        "phone": "+1 (111) 222-3333",
+        "website": "www.google.com",
+        "imgUrl": "https://images.unsplash.com/photo-1611735341450-74d61e660ad2?auto=format&fit=crop&q=80&w=2069&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "rate": 4.3,
+        "reviews": [
+          {
+            "comment": "Great place for eco-friendly gardening supplies!",
+            "username": "GreenThumb",
+            "date": "2023-10-18"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "GreenMiles Electric",
+        "address": "808 Maple Lane",
+        "openingTime": "9:00 AM - 6:00 PM",
+        "phone": "+1 (444) 555-6666",
+        "website": "www.google.com",
+        "imgUrl": "https://images.unsplash.com/photo-1497440001374-f26997328c1b?auto=format&fit=crop&q=80&w=1932&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "rate": 2.6,
+        "reviews": []
+      },
+      {
+        "id": 12,
+        "name": "EcoPaws Pet Grooming",
+        "address": "909 Willow Street",
+        "openingTime": "10:00 AM - 7:00 PM",
+        "phone": "+1 (777) 888-9999",
+        "website": "www.google.com",
+        "imgUrl": "https://images.unsplash.com/photo-1581888227599-779811939961?auto=format&fit=crop&q=80&w=1974&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "rate": 3.9,
+        "reviews": [
+          {
+            "comment": "Our pets love this eco-friendly grooming place!",
+            "username": "PetLover123",
+            "date": "2023-10-17"
+          }
+        ]
+      }
+]
+  
