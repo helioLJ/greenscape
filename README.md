@@ -2,6 +2,8 @@
 ## Introduction
 This repository contains a prototype for the GreenScape platform, which aims to link eco-conscious consumers with local sustainable businesses, allowing users to explore, review, and support these enterprises. The prototype focuses on implementing a specific section of the platform, showcasing client-side functionality.
 
+![GIF](./greenscape.gif)
+
 ## Functionality
 The prototype includes the following functionality:
 
